@@ -1,12 +1,12 @@
 # 📊 Excel_Project-Data_Analytics
 
-This repository demonstrates my **Excel data analysis skills**, gained through coursework and **hands-on projects**. It demonstrates my ability to transform raw data into actionable insights, build interactive dashboards, and support data-driven decision-making using **advanced Excel functions, Power Query, and Power Pivot**.
+This repository demonstrates my **Excel Data Analysis Skills**, gained through coursework and **Hands-on Projects**. It demonstrates my ability to transform raw data into actionable insights, build interactive dashboards, and support data-driven decision-making using **Advanced Excel Functions, Power Query, and Power Pivot**.
 
 ## 🧠 Technical Skills & Expertise
 
 ### 📘 Spreadsheet Fundamentals 
 - Advanced workbook and worksheet management
-- Efficient navigation using **Ribbon, Menu** and **keyboard shortcuts**
+- Efficient navigation using **Ribbon, Menu** and **Keyboard shortcuts**
 - Structuring spreadsheets for scalability and analysis
 
 ### 📘 Formulas & Functions
@@ -19,10 +19,10 @@ This repository demonstrates my **Excel data analysis skills**, gained through c
 - **Statistical Functions** for descriptive analysis and metrics
 
 ### 📘 Data Visualization & Reporting
-- Selecting appropriate **chart types** for analytical storytelling
+- Selecting appropriate **Chart Types** for analytical storytelling
 - Customizing **Chart Elements** for clarity
-- Applying consistent **chart styles and layouts**
-- Creating reusable **chart templates**
+- Applying consistent **Chart Styles and Layouts**
+- Creating reusable **Chart Templates**
 - Building insight-driven analytical reports
 
 ### 📘 Advanced Spreadsheet Features
@@ -55,7 +55,7 @@ This repository demonstrates my **Excel data analysis skills**, gained through c
 - Building and managing **Data Models**
 
 ## 🛠️ Projects & Practical Experience
-  - Completed **two end-to-end Excel data analysis projects** applying real-world datasets:
+  - Completed **Two End-to-End Excel Data Analysis Projects** applying real-world datasets:
   - **[Project 1: Dashboard](https://github.com/PrashanthiBoga/Excel_Project-Data_Analytics/tree/6372a7b9dc53a85f85881b2e119dafb820a3773c/Project_1-Dashboard)** – Designed interactive dashboard using advanced formulas & functions, charts, and data validation techniques
   - **[Project 2: Analysis](https://github.com/PrashanthiBoga/Excel_Project-Data_Analytics/tree/6372a7b9dc53a85f85881b2e119dafb820a3773c/Project_2-Analysis)** – Performed pivot-based analysis using Power Query, Power Pivot, and DAX (Data Analysis Expressions)
  
