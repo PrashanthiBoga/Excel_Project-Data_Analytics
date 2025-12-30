@@ -56,8 +56,8 @@ This repository demonstrates my **Excel Data Analysis Skills**, gained through c
 
 ## 🛠️ Projects & Practical Experience
   - Completed **Two End-to-End Excel Data Analysis Projects** applying real-world datasets:
-  - **[Project 1: Dashboard](https://github.com/PrashanthiBoga/Excel_Project-Data_Analytics/tree/6372a7b9dc53a85f85881b2e119dafb820a3773c/Project_1-Dashboard)** – Designed interactive dashboard using advanced formulas & functions, charts, and data validation techniques
-  - **[Project 2: Analysis](https://github.com/PrashanthiBoga/Excel_Project-Data_Analytics/tree/6372a7b9dc53a85f85881b2e119dafb820a3773c/Project_2-Analysis)** – Performed pivot-based analysis using Power Query, Power Pivot, and DAX (Data Analysis Expressions)
+  - **[Project 1: Dashboard](https://github.com/PrashanthiBoga/Excel_Project-Data_Analytics/tree/b8ed4201c25fd0920a7be7945d157501343e15c4/Project_1-Dashboard)** – Designed interactive dashboard using advanced formulas & functions, charts, and data validation techniques
+  - **[Project 2: Analysis](https://github.com/PrashanthiBoga/Excel_Project-Data_Analytics/tree/b8ed4201c25fd0920a7be7945d157501343e15c4/Project_2-Analysis)** – Performed pivot-based analysis using Power Query, Power Pivot, and DAX (Data Analysis Expressions)
  
 
 
