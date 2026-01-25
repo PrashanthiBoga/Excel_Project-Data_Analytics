@@ -38,14 +38,34 @@ The dataset used for this project contains real-world data science job informati
 
 #### Process:
 
-- Extracted the data using Power Query and created two queries with `all data jobs information` and `skills for each job ID`.
+- Extracted the data using Power Query and created two queries with all data jobs information and skills for each job ID.
 - Transformed the data: changed column types, removed unnecessary columns, and cleaning text to eliminate specific words, and trimming excess whitespace.
+- 📊 data_jobs_all
+  
+  <img width="181" height="218" alt="image" src="https://github.com/user-attachments/assets/887f391f-dd73-4bff-ad05-f025e2294a97" />
+
+- 📊 data_jobs_skills
+  
+  <img width="182" height="233" alt="image" src="https://github.com/user-attachments/assets/bffda4ae-6f3a-4269-8f5b-50b1c66dc11b" />
+  
 - Loaded the cleaned data into Excel for further analysis.
+
+- 📊 data_jobs_all
+  
+  <img width="955" height="346" alt="image" src="https://github.com/user-attachments/assets/aff0ff39-1e16-4663-9872-e25818a786c4" />
+
+- 📊 data_jobs_skills
+
+   <img width="956" height="365" alt="image" src="https://github.com/user-attachments/assets/6866c7d1-692e-4e9b-a938-7e53cc6dccea" />
 
 #### Insights:
 
 - Jobs requiring more skills, such as Senior Data Engineer or Data Scientist, tend to offer higher salaries.
 - Roles with fewer required skills, like Business Analyst, generally have lower pay.
+
+  <img width="374" height="224" alt="image" src="https://github.com/user-attachments/assets/ebcb120a-7212-4a92-932d-a9b896aa5abc" />
+
+
 
 #### Takeaway:
 
@@ -64,7 +84,7 @@ The dataset used for this project contains real-world data science job informati
         MEDIAN(data_jobs_all[salary_year_avg]),
         data_jobs_all[job_country] = "United States")
     ```
-- Calculated `median salaries` using DAX for both US and international jobs.
+- Calculated `median salaries` using DAX.
 
     ```
     Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
@@ -74,6 +94,9 @@ The dataset used for this project contains real-world data science job informati
 
 - Roles such as Senior Data Engineer and Data Scientist earn higher median salaries both in the US and globally, highlighting the strong worldwide demand for advanced data expertise.
 - However, theres a clear pay gap between US and non-US roles, likely driven by the high concentration of major tech companies in the United States.
+
+  <img width="572" height="185" alt="image" src="https://github.com/user-attachments/assets/0f0ab02e-99fa-4d69-ad2f-f49d0def77ae" />
+
 
 #### Takeaway:
 
@@ -85,13 +108,21 @@ The dataset used for this project contains real-world data science job informati
 
 #### Process:
 
- - I built a data model by combining the `data_jobs_all` and `data_jobs_skills` tables and linking them through the `job_id` column. 
+ - I built a data model by combining the `data_jobs_all` and `data_jobs_skills` tables and linking them through the `job_id` column.
+
+   <img width="484" height="308" alt="image" src="https://github.com/user-attachments/assets/2ab7f922-6dfc-499c-bacf-08886cabef38" />
+
  - Using the Power Pivot menu, I refined the data model and efficiently created measures for analysis.
+
+   <img width="935" height="298" alt="image" src="https://github.com/user-attachments/assets/1c62a6ac-193a-428d-9849-91fe52fe1cb0" />
+
 
 #### Insights:
 
 - SQL and Python are the most common skills, reflecting their essential role in data processing and analysis.
 - Emerging technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.
+
+  <img width="366" height="242" alt="image" src="https://github.com/user-attachments/assets/43127335-8669-4117-b94e-e0e60899f0f6" />
 
 #### Takeaway:
 
@@ -110,6 +141,9 @@ The dataset used for this project contains real-world data science job informati
 
 - Skills like Python, SQL, and Oracle are linked to higher-paying roles.
 - Basic skills like PowerPoint and Word are associated with lower salaries.
+
+  <img width="413" height="213" alt="image" src="https://github.com/user-attachments/assets/39c890e7-f6a3-4b70-96eb-40eacb02d744" />
+
 
 #### Takeaway:
 
