@@ -5,54 +5,23 @@ This repository demonstrates my **Excel Data Analysis Skills**, gained through c
 ## 🧠 Technical Skills & Expertise
 
 ### 📘 Spreadsheet Fundamentals 
-- Advanced workbook and worksheet management
-- Efficient navigation using **Ribbon, Menu** and **Keyboard shortcuts**
-- Structuring spreadsheets for scalability and analysis
-
 ### 📘 Formulas & Functions
-- Writing and managing **Formulas**
-- **Logical Functions** for rule-based analysis
-- **Text Functions** for data cleansing and normalization
-- **Date & Time Functions** for time-series analysis
-- **Lookup Functions** (VLOOKUP, XLOOKUP, HLOOKUP)
-- **Mathematical Functions** for calculations and modeling
-- **Statistical Functions** for descriptive analysis and metrics
-
 ### 📘 Data Visualization & Reporting
-- Selecting appropriate **Chart Types** for analytical storytelling
-- Customizing **Chart Elements** for clarity
-- Applying consistent **Chart Styles and Layouts**
-- Creating reusable **Chart Templates**
-- Building insight-driven analytical reports
-
 ### 📘 Advanced Spreadsheet Features
-- Using **Excel Tables** for structured, dynamic datasets
-- **Conditional Formatting** for trend and outlier detection
-- Cell and data **Formatting**
-- **Collaboration** and shared workbooks
-  
-### 📘 Pivot Tables
-- Building **Pivot Tables**
-- Creating **Pivot Charts**
-- Using **Advanced Pivot Table** features for analysis
-
+### 📘 Pivot Tables & Pivot Charts
 ### 📘 Advanced Data Analysis 
-- **Analysis ToolPak Add-ins** for statistical analysis
-- Optimization using **Solver**
-- **Scenario Manager** for business decision modeling
-- **Goal Seek** 
-- **Data Tables** 
-
+  - Analysis ToolPak Add-ins
+  -  Solver
+  - Scenario Manager
+  - Goal Seek
+  - Data Tables
 ### 📘 Power Query (ETL in Excel)
-- Importing data from multiple sources
-- Cleaning and transforming data using **Power Query Editor**
-- Writing and understanding **Power Query (M) Language**
-- Handling large and messy datasets efficiently
-
+  - Power Query Editor
+  - Power Query (M) Language
 ### 📘 Power Pivot & Data Modeling
-- Using **Power Pivot**
-- Writing **DAX (Data Analysis Expressions)**
-- Building and managing **Data Models**
+  - Power Pivot
+  - DAX (Data Analysis Expressions)
+  - Data Models
 
 ## 🛠️ Projects & Practical Experience
   - Completed **Two End-to-End Excel Data Analysis Projects** applying real-world datasets:
